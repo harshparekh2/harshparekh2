@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring Full-Stack Developer | Tech Enthusiast<br>👯 I’m looking to collaborate on → Open Source & Web Projects<br>🤝 I’m looking for help with → Backend, APIs & Deployment<br>🌱 I’m currently learning → MERN Stack & DevOps Basics<br>💬 Ask me about → Web Dev, GitHub, Open Source<br>⚡ Fun fact → I code better with music
+🔭 Aspiring Full-Stack Developer | Tech Enthusiast<br>👯 I’m looking to collaborate on → Open Source & Web Projects<br>🤝 I’m looking for help with → Backend, APIs & Deployment<br>🌱 I’m currently learning → MERN Stack & DevOps Basics<br>💬 Ask me about → Web Dev, GitHub, Open Source<br>⚡ Fun fact → Code + Music = My Peace
 
 
 ## 🌐 Socials:
