@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring Full-Stack Developer | Tech Enthusiast<br>👯 I’m looking to collaborate on → Open Source & Web Projects<br>🤝 I’m looking for help with → Backend, APIs & Deployment<br>🌱 I’m currently learning → MERN Stack & DevOps Basics<br>💬 Ask me about → Web Dev, GitHub, Open Source<br>⚡ Fun fact → Code + Music = My Peace
-
+🔭 Aspiring Full-Stack Developer | Tech Enthusiast<br>👯 I’m looking to collaborate on → Open Source & Web Projects<br>🤝 I’m looking for help with → Backend, APIs & Deployment<br>🌱 I’m currently learning → MERN Stack & DevOps Basics<br>💬 Ask me about → Web Dev, GitHub, Open Source<br>⚡ Fun fact → I Code while listing to $ sign.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshparekh9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshparekh9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshparrekh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshparekh726@gmail.com) 
